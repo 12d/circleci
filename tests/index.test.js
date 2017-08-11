@@ -5,5 +5,5 @@ test('adds 1 + 2 to equal 3', () => {
 });
 test('adds 2+"he"',()=>{ 
 
-  expect(sum(2, 'he')).toBe("Error")
+  expect(sum(2, 'he')).toEqual("2he")
 })
