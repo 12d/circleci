@@ -1,0 +1,25 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "jest demo for circlecio",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12d/circleci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12d/circleci/issues"
+  },
+  "homepage": "https://github.com/12d/circleci#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
